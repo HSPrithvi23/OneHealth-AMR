@@ -1,0 +1,7 @@
+## Data Availability
+Raw data used in this project is publicly available from:
+- [BV-BRC](https://www.bv-brc.org/) — search E. coli and 
+  S. enterica AMR genome data
+- [NCBI Genome Database](https://www.ncbi.nlm.nih.gov/genome/)
+
+Data is not included in this repository to maintain file size limits.
